@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.zetcode;
+
+/**
+ * @author jkhurana
+ *
+ */
+public class Application {
+
+	/**
+	 * @param args
+	 */
+	
+	public Application()
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

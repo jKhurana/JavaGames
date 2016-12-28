@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.zetcode;
+
+/**
+ * @author jkhurana
+ *
+ */
+
+import javax.swing.JPanel;
+
+public class Board extends JPanel{
+	
+	public Board() {}
+}
